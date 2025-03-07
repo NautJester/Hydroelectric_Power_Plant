@@ -1,0 +1,2 @@
+pct: percentage
+sp: speed
